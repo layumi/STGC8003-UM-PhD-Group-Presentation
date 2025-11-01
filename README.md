@@ -1,4 +1,4 @@
-# Paper Group Presentation Guidelines
+# Paper Group Presentation Guidelines and Schedule
 
 
 ## 1. Overview
