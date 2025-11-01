@@ -1,4 +1,4 @@
-# ICLR Paper Group Presentation Guidelines
+# Paper Group Presentation Guidelines
 
 
 ## 1. Overview
