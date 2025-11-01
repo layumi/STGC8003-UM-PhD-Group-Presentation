@@ -14,7 +14,7 @@ Welcome to the **Group Presentation** sessions of this PhD course on ICLR papers
 
 ## 2. Time Management
 
-### Session Structure (Total ≈ 120 min)
+### Session Structure 
 | Phase                  | Time          | Notes                  |
 |------------------------|---------------|------------------------|
 | **Group Presentation** | **15–25 min/group**<br/>(**Solo: 15–20 min; Duo: 20–25 min**) | PPT + Talk |
