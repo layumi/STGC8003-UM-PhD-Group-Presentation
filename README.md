@@ -44,6 +44,8 @@ Welcome to the **Group Presentation** sessions of this PhD course on ICLR papers
 | **17-Nov** | Test-time Adaption against Multi-modal Reliability Bias                    | 李利坚，杨浩        | 2    | 20–25 min  |
 
 ### 24-Nov (6 groups)
+| Date    | Paper Title                                                                 | Presenter(s)                  | Size | Est. Time   |
+|---------|-----------------------------------------------------------------------------|-------------------------------|------|-------------|
 | **24-Nov** | One Step Diffusion via Shortcut Models                                     | 吴鹏 贵兴泰        | 2    | 20–25 min  |
 | **24-Nov** | SANA: Efficient High-Resolution Text-to-Image Synthesis with Linear Diffusion Transformers | 张嘉豪，张冀正| 2    | 20–25 min  |
 | **24-Nov** | Root Cause Analysis of Anomalies in Multivariate Time Series through Granger Causal Discovery | 苏显然             | 1    | 15–20 min  |
@@ -52,6 +54,8 @@ Welcome to the **Group Presentation** sessions of this PhD course on ICLR papers
 | **24-Nov** | Cybench: A Framework for Evaluating Cybersecurity Capabilities and Risks of Language Models | 卢思浓              | 1    | 15–20 min  |
 
 ### 1-Dec (6 groups)
+| Date    | Paper Title                                                                 | Presenter(s)                  | Size | Est. Time   |
+|---------|-----------------------------------------------------------------------------|-------------------------------|------|-------------|
 | **1-Dec** | Anti-Diffusion: Preventing Abuse of Modifications of Diffusion-Based Models | 陈子尧               | 1    | 15–20 min  |
 | **1-Dec** | Adversarial Perturbations Cannot Reliably Protect Artists From Generative AI | 刘潇                 | 1    | 15–20 min  |
 | **1-Dec** | PhyMPGN: Physics-encoded Message Passing Graph Network for spatiotemporal PDE systems | 卢磊,罗伟        | 2    | 20–25 min  |
