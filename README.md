@@ -10,8 +10,7 @@ Welcome to the **Group Presentation** sessions of this PhD course on ICLR papers
 - **Groups:** 1 PhD (solo) or 2 PhDs (collaborative; **divide tasks clearly**).
 
 **Key Rules:**
-- **Total session time: Strictly ≤ 2 hours** (all groups + Q&A + discussion).
-- **Theme:** Explain **one ICLR paper** per group.
+- **Theme:** Explain **one ICLR paper and the official review** per group.
 
 ## 2. Time Management
 
