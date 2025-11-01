@@ -67,19 +67,26 @@ Welcome to the **Group Presentation** sessions of this PhD course on ICLR papers
 ## 4. PPT Structure & Content
 **Total Slides: 15–25** (Solo ≤20; Duo ≤25). **Font ≥24pt; ≤5 lines/slide.**
 
-| Section              | Key Content                                                                 | Slides | Time     |
-|----------------------|-----------------------------------------------------------------------------|--------|----------|
-| **1. Title & Intro** | Background, Motivation, **3–5 Contributions**<br/>Visualize problem (e.g., pain points chart) | 2–3    | 3 min   |
-| **2. Related Work**  | Baselines + Positioning (**Why ICLR?**)<br/>**Comparison Table**            | 2      | 3 min   |
-| **3. Method (Core)** | **Detailed:** Math, Algo Flow, **Visuals (Arch/Pseudo-code)**<br/>Duo: Split (Deriv. vs. Impl.) | 6–8    | 8–10 min |
-| **4. Experiments**   | Datasets, Metrics, **Main Tables/Figs**, Ablations<br/>**Highlight SOTA in color**; Explain "Why it works" | 4–6    | 6–8 min |
-| **5. Discussion & Limits** | Pros/Cons, **Real Impact**, Future<br/>**Critical:** e.g., "High compute?" | 2      | 3 min   |
-| **6. Conclusion & Q&A** | Summary + **3 Thought Questions**                                      | 1      | 2 min   |
+| Section                  | Key Content                                                                 | Slides | Time     |
+|--------------------------|-----------------------------------------------------------------------------|--------|----------|
+| **1. Title & Intro**     | Background, Motivation, **3–5 Contributions**<br/>Visualize problem (e.g., pain points chart) | 2–3    | 3 min   |
+| **2. Related Work**      | Baselines + Positioning (**Why ICLR?**)<br/>**Comparison Table**            | 2      | 3 min   |
+| **3. Method (Core)**     | **Detailed:** Math, Algo Flow, **Visuals (Arch/Pseudo-code)**<br/>Duo: Split (Deriv. vs. Impl.) | 6–8    | 8–10 min |
+| **4. Experiment**       | Datasets, Metrics, **Main Tables/Figs**, Ablations<br/>**Highlight SOTA in color**; Explain "Why it works" | 4–6    | 6–8 min |
+| **5. Discussion & Limits** | Pros/Cons, **Real Impact**, **ICLR Review Analysis**, Future<br/>**Critical:** e.g., "High compute?" + "Address R1/R2 concerns?" | **2–3** | **3–4 min** |
+| **6. Conclusion & Q&A**  | Summary + **3 Thought Questions** (incl. 1 on reviews)                     | 1      | 2 min   |
 
 **Design Tips:**
-- Read ICLR review.
-- **80% visuals/equations, 20% text.**
-- Use **animations** for complex diagrams.
+- **🚨 Mandatory Prep Step:** 
+  1. Search your **paper title on [OpenReview.net](https://openreview.net/)** (ICLR reviews are public!).
+  2. **Download & read all reviews** (focus: **scores**, **strengths**, **weaknesses**, **suggestions**).
+     - **Table/Summary:** Top **2–3 reviewer comments** (e.g., "R1: Weak ablation → Our response: ...").
+     - **Visual:** **Review Score Breakdown** (Avg Score, Decision: Accept/Reject).
+     - **Analysis:** "How would **you improve** based on suggestions?" (shows critical thinking!).
+     - **Why?** Reviews reveal **real expert critiques** → Elevate your talk from "summary" to "deep analysis" (+10% score boost!).
+  3. **80% visuals/equations, 20% text.**
+  4. Use **animations** for complex diagrams.
+  5. **Practice responding to reviews in Q&A** → "If R3 is right, we'd try Y..."
 
 
 ## 5. Teamwork (Duo Groups)
@@ -94,17 +101,7 @@ Welcome to the **Group Presentation** sessions of this PhD course on ICLR papers
 - Host: Randomly call 2–3 audience for questions.
 - Link to course themes (e.g., Diffusion/Optimization).
 
-## 7. Scoring (100 pts Total)
-| Category       | Points | Criteria                              |
-|----------------|--------|----------------------------------------|
-| **Content Depth** | 40     | Accurate innovations/details; Critical analysis |
-| **Clarity**    | 30     | Logical flow; Excellent visuals; No reading |
-| **Time Control** | 10    | On-time; Smooth transitions            |
-| **Interaction** | 10     | Strong Q&A; Sparks discussion          |
-| **PPT Quality** | 10     | Aesthetic; Concise                     |
-
-
-## 8. FAQ & Resources
+## 7.  FAQ & Resources
 - **Q: Paper too hard?** A: Focus contributions + exps; Use whiteboard for math.
 - **Q: Read original?** A: **Yes!** + arXiv code/video.
 - **Contact:** Email (reply <48h).
