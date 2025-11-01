@@ -97,7 +97,7 @@ Welcome to the **Group Presentation** sessions of this PhD course on ICLR papers
 
 
 ## 6. Interaction & Q&A
-- Prep **5 common Qs** (e.g., "Extend to 3D?").
+- Prep **3 common Qs** (e.g., "Extend to 3D?").
 - Host: Randomly call 2–3 audience for questions.
 - Link to course themes (e.g., Diffusion/Optimization).
 
