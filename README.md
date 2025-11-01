@@ -44,20 +44,20 @@ Welcome to the **Group Presentation** sessions of this PhD course on ICLR papers
 | **17-Nov** | Test-time Adaption against Multi-modal Reliability Bias                    | 李利坚，杨浩        | 2    | 20–25 min  |
 
 ### 24-Nov (6 groups)
-| **24-Nov** | One Step Diffusion via Shortcut Models                                     | Wu Peng, Gui Xingtai         | 2    | 20–25 min  |
-| **24-Nov** | SANA: Efficient High-Resolution Text-to-Image Synthesis with Linear Diffusion Transformers | Zhang Jiahao, Zhang Jizheng | 2    | 20–25 min  |
-| **24-Nov** | Root Cause Analysis of Anomalies in Multivariate Time Series through Granger Causal Discovery | Su Xianran                | 1    | 15–20 min  |
-| **24-Nov** | MaRS: A Fast Sampler for Mean Reverting Diffusion based on ODE and SDE Solvers | Liu Xingcheng             | 1    | 15–20 min  |
-| **24-Nov** | SAM 2: Segment Anything in Images and Videos                               | Wang Nianru, Yu Zhichao      | 2    | 20–25 min  |
-| **24-Nov** | Cybench: A Framework for Evaluating Cybersecurity Capabilities and Risks of Language Models | Lu Sinen                  | 1    | 15–20 min  |
+| **24-Nov** | One Step Diffusion via Shortcut Models                                     | 吴鹏 贵兴泰        | 2    | 20–25 min  |
+| **24-Nov** | SANA: Efficient High-Resolution Text-to-Image Synthesis with Linear Diffusion Transformers | 张嘉豪，张冀正| 2    | 20–25 min  |
+| **24-Nov** | Root Cause Analysis of Anomalies in Multivariate Time Series through Granger Causal Discovery | 苏显然             | 1    | 15–20 min  |
+| **24-Nov** | MaRS: A Fast Sampler for Mean Reverting Diffusion based on ODE and SDE Solvers | 刘星丞             | 1    | 15–20 min  |
+| **24-Nov** | SAM 2: Segment Anything in Images and Videos                               | 王念儒，吁智超   | 2    | 20–25 min  |
+| **24-Nov** | Cybench: A Framework for Evaluating Cybersecurity Capabilities and Risks of Language Models | 卢思浓              | 1    | 15–20 min  |
 
 ### 1-Dec (6 groups)
-| **1-Dec** | Anti-Diffusion: Preventing Abuse of Modifications of Diffusion-Based Models | Chen Ziyao                  | 1    | 15–20 min  |
-| **1-Dec** | Adversarial Perturbations Cannot Reliably Protect Artists From Generative AI | Liu Xiao                    | 1    | 15–20 min  |
-| **1-Dec** | PhyMPGN: Physics-encoded Message Passing Graph Network for spatiotemporal PDE systems | Lu Lei, Luo Wei            | 2    | 20–25 min  |
-| **1-Dec** | No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images | Yin Xingyilang, Li Zhiyuan | 2    | 20–25 min  |
-| **1-Dec** | MoE++: Accelerating Mixture-of-Experts Methods with Zero-Computation Experts | Chen Junlin, Qian Zhirong  | 2    | 20–25 min  |
-| **1-Dec** | SplatFormer: Point Transformer for Robust 3D Gaussian Splatting            | Wu Di, Wang Yidi             | 2    | 20–25 min  |
+| **1-Dec** | Anti-Diffusion: Preventing Abuse of Modifications of Diffusion-Based Models | 陈子尧               | 1    | 15–20 min  |
+| **1-Dec** | Adversarial Perturbations Cannot Reliably Protect Artists From Generative AI | 刘潇                 | 1    | 15–20 min  |
+| **1-Dec** | PhyMPGN: Physics-encoded Message Passing Graph Network for spatiotemporal PDE systems | 卢磊,罗伟        | 2    | 20–25 min  |
+| **1-Dec** | No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images | 尹星一郎，李智远 | 2    | 20–25 min  |
+| **1-Dec** | MoE++: Accelerating Mixture-of-Experts Methods with Zero-Computation Experts | 陈俊霖，钱志榕 | 2    | 20–25 min  |
+| **1-Dec** | SplatFormer: Point Transformer for Robust 3D Gaussian Splatting            | 吴迪，王一迪        | 2    | 20–25 min  |
 
 **Note:** *Email me ASAP for date conflicts!*
 
@@ -74,6 +74,7 @@ Welcome to the **Group Presentation** sessions of this PhD course on ICLR papers
 | **6. Conclusion & Q&A** | Summary + **3 Thought Questions**                                      | 1      | 2 min   |
 
 **Design Tips:**
+- Read ICLR review.
 - **80% visuals/equations, 20% text.**
 - Use **animations** for complex diagrams.
 
