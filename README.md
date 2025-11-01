@@ -83,7 +83,7 @@ Welcome to the **Group Presentation** sessions of this PhD course on ICLR papers
      - **Table/Summary:** Top **2–3 reviewer comments** (e.g., "R1: Weak ablation → Our response: ...").
      - **Visual:** **Review Score Breakdown** (Avg Score, Decision: Accept/Reject).
      - **Analysis:** "How would **you improve** based on suggestions?" (shows critical thinking!).
-     - **Why?** Reviews reveal **real expert critiques** → Elevate your talk from "summary" to "deep analysis" (+10% score boost!).
+     - **Why?** Reviews reveal **real expert critiques** → Elevate your talk from "summary" to "deep analysis".
 - **80% visuals/equations, 20% text.**
 - Use **animations** for complex diagrams.
 - **Practice responding to reviews in Q&A** → "If R3 is right, we'd try Y..."
