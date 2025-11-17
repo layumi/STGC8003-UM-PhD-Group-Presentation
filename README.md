@@ -24,7 +24,7 @@ Welcome to the **Group Presentation** sessions of this PhD course on ICLR papers
 ## 3. Schedule (Sorted by Date)
 **Submit PPT (PDF) 24h before your slot for review!**
 
-### 10-Nov (5 groups)
+### 10-Nov (4 groups)
 | Date    | Paper Title                                                                 | Presenter(s)                  | Size | Est. Time   |
 |---------|-----------------------------------------------------------------------------|-------------------------------|------|-------------|
 | **10-Nov** | ConFIG: Towards Conflict-free Training of Physics Informed Neural Networks | 丁玲，陈春华    | 2    | 20–25 min  |
@@ -32,7 +32,7 @@ Welcome to the **Group Presentation** sessions of this PhD course on ICLR papers
 | **10-Nov** | Vision-RWKV: Efficient and Scalable Visual Perception with RWKV-Like Architectures | 葛兆宁              | 1    | 15–20 min  |
 | **10-Nov** | Step-DPO: Step-wise Preference Optimization for Long-chain Reasoning of LLMs | 马景坤              | 1    | 15–20 min  |
 
-### 17-Nov (5 groups)
+### 17-Nov (6 groups)
 | Date    | Paper Title                                                                 | Presenter(s)                  | Size | Est. Time   |
 |---------|-----------------------------------------------------------------------------|-------------------------------|------|-------------|
 | **17-Nov** | MAP: Multi-Human-Value Alignment Palette                                   | 何奕霖，刘琬平       | 2    | 20–25 min  |
