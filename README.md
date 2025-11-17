@@ -30,12 +30,12 @@ Welcome to the **Group Presentation** sessions of this PhD course on ICLR papers
 | **10-Nov** | ConFIG: Towards Conflict-free Training of Physics Informed Neural Networks | 丁玲，陈春华    | 2    | 20–25 min  |
 | **10-Nov** | PETRA: Parallel End-to-end Training with Reversible Architectures          | 邓涛，张展西      | 2    | 20–25 min  |
 | **10-Nov** | Vision-RWKV: Efficient and Scalable Visual Perception with RWKV-Like Architectures | 葛兆宁              | 1    | 15–20 min  |
-| **10-Nov** | MAP: Multi-Human-Value Alignment Palette                                   | 何奕霖，刘琬平       | 2    | 20–25 min  |
 | **10-Nov** | Step-DPO: Step-wise Preference Optimization for Long-chain Reasoning of LLMs | 马景坤              | 1    | 15–20 min  |
 
 ### 17-Nov (5 groups)
 | Date    | Paper Title                                                                 | Presenter(s)                  | Size | Est. Time   |
 |---------|-----------------------------------------------------------------------------|-------------------------------|------|-------------|
+| **17-Nov** | MAP: Multi-Human-Value Alignment Palette                                   | 何奕霖，刘琬平       | 2    | 20–25 min  |
 | **17-Nov** | FlexPrefill: A Context-Aware Sparse Attention Mechanism for Efficient Long-Sequence Inference | 孙希浩，路淇         | 2    | 20–25 min  |
 | **17-Nov** | Two Effects, One Trigger: On the Modality Gap, Object Bias, and Information Imbalance in Contrastive Vision-Language Models | 蔺百昊，杜沛霖    | 2    | 20–25 min  |
 | **17-Nov** | Data Scaling Laws in Imitation Learning for Robotic Manipulation           | 陈昱滔，刘晓明    | 2    | 20–25 min  |
