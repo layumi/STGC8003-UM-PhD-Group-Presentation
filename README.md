@@ -47,7 +47,7 @@ Welcome to the **Group Presentation** sessions of this PhD course on ICLR papers
 |---------|-----------------------------------------------------------------------------|-------------------------------|------|-------------|
 | **24-Nov** | One Step Diffusion via Shortcut Models                                     | 吴鹏 贵兴泰        | 2    | 20–25 min  |
 | **24-Nov** | SANA: Efficient High-Resolution Text-to-Image Synthesis with Linear Diffusion Transformers | 张嘉豪，张冀正| 2    | 20–25 min  |
-| **24-Nov** | Root Cause Analysis of Anomalies in Multivariate Time Series through Granger Causal Discovery | 苏显然             | 1    | 15–20 min  |
+| **24-Nov** | CausalStock: Deep End-to-end Causal Discovery for News-driven Stock Movement Prediction | 苏显然             | 1    | 15–20 min  |
 | **24-Nov** | MaRS: A Fast Sampler for Mean Reverting Diffusion based on ODE and SDE Solvers | 刘星丞             | 1    | 15–20 min  |
 | **24-Nov** | SAM 2: Segment Anything in Images and Videos                               | 王念儒，吁智超   | 2    | 20–25 min  |
 | **24-Nov** | Cybench: A Framework for Evaluating Cybersecurity Capabilities and Risks of Language Models | 卢思浓              | 1    | 15–20 min  |
